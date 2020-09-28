@@ -1,0 +1,19 @@
+<cdk-virtual-scroll-viewport itemSize="575" class="container">
+    <mat-card class="karta" *cdkVirtualFor="let user of users">
+        <mat-card-header>
+            <div mat-card-avatar >
+                <img class="profilna" [src]="user.profilna">
+            </div>
+            <mat-card-title>{{user.Ime}}</mat-card-title>
+            <mat-card-subtitle>{{user.account}}</mat-card-subtitle>
+        </mat-card-header>
+        <img class="objava" mat-card-image [src]="user.slika" alt="slika">
+        <mat-card-content>
+            <p>
+                {{user.opis}}
+            </p>
+        </mat-card-content>
+    </mat-card>
+    
+    
+</cdk-virtual-scroll-viewport>

@@ -1,0 +1,23 @@
+.karta{
+    max-width: 400px;
+    margin: auto;
+    margin-top: 1%;
+    height: 575px;
+}
+
+.profilna{
+     width: 100%;
+     height: auto;
+     border-radius: 70%;
+     
+}
+
+.objava{
+    width: 400px;
+    height: 500px;
+    margin: auto;
+}
+
+.container{
+    height: 820px
+}

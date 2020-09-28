@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "profilna": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fbrittanybellanca.com%2Fadvweb1%2Fgw3%2Fimages%2Fmichael.png&f=1&nofb=1",
+        "Ime": "Michael Scott",
+        "account": "@michaelscott",
+        "slika": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Finboundmarketingsummit.com%2Fwp-content%2Fuploads%2F2019%2F02%2FMichael-Scott-Quotes-10.png&f=1&nofb=1",
+        "opis": "mood. "
+    },
+    {
+        "id": 2,
+        "profilna": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-img.instyle.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F684xflex%2Fpublic%2Fimages%2F2018%2F10%2Fgettyimages-143479563.jpg%3Fitok%3DyfzYGpik&f=1&nofb=1",
+        "Ime": "Ross Geller",
+        "account": "@rossgeler",
+        "slika": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fshopatmarketstreet.com%2Fwp-content%2Fuploads%2F2018%2F10%2F15.png&f=1&nofb=1",
+        "opis": ""
+    },
+    {
+        "id": 3,
+        "profilna": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F424979226001813505%2FkYw3kT5t.jpeg&f=1&nofb=1",
+        "Ime": "Sheldon Cooper",
+        "account": "@moon_pie",
+        "slika": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.relatably.com%2Fm%2Fimg%2Fcreepy-smile-meme-gif%2Fa61adf6c577a73868bdd2be9a5ede3aa41b6cc104c18ce45d5d710194cd22df7.jpg&f=1&nofb=1",
+        "opis": ""
+    },
+    {
+        "id": 4,
+        "profilna": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages6.fanpop.com%2Fimage%2Fphotos%2F34800000%2Fphotos-janice-from-friends-34854473-500-564.jpg&f=1&nofb=1",
+        "Ime": "Janice",
+        "account": "@janice",
+        "slika": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2Fe7f9ab362703f3c1633d729f0b4ae96c%2Ftenor.gif%3Fitemid%3D9167191&f=1&nofb=1",
+        "opis": "Can you hear me? "
+    },
+    {
+        "id": 5,
+        "profilna": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages5.fanpop.com%2Fimage%2Fphotos%2F29400000%2FRobin-robin-scherbatsky-29437383-1920-2560.jpg&f=1&nofb=1",
+        "Ime": "Robin Scherbatsky",
+        "account": "@robin",
+        "slika": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpics.conservativememes.com%2Fworld-wide-news-how-i-met-your-mother-27205428.png&f=1&nofb=1",
+        "opis": "expectations vs reality"
+    },
+    {
+        "id": 6,
+        "profilna": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsecure.i.telegraph.co.uk%2Fmultimedia%2Farchive%2F00644%2Fnews-graphics-2007-_644009a.jpg&f=1&nofb=1",
+        "Ime": "Owen Wilson",
+        "account": "@owenwilson",
+        "slika": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fignitemusicmag.files.wordpress.com%2F2017%2F01%2Fowen-wilson-portrait.jpg&f=1&nofb=1",
+        "opis": "Felt cute"
+    }
+
+
+]
